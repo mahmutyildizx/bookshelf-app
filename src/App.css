@@ -1,0 +1,14 @@
+body {
+    background: #e9ecf0;
+}
+
+.books-holder {
+    padding: 25px 0;
+}
+.bookCard {
+    margin-top: 20px;
+}
+
+.cardBody {
+    overflow: auto;
+}
