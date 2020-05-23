@@ -12,7 +12,7 @@ import history from "./history";
 
 ReactDOM.render(
       <Provider store={store}>
-    <BrowserRouter history={history} basename="/">
+    <BrowserRouter history={history} basename="/Bookshelf-App">
             <App />
     </BrowserRouter>
       </Provider>,
