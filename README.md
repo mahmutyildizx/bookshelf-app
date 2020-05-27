@@ -1,7 +1,7 @@
 Bookshelf App Clone
 
 Bu proje Kodluyoruz React bootcamp'i için ödev olarak hazırlanmıştır. Henüz geliştirme aşamasındadır.
-Incelemek için https://mahmuttyildiz.github.io/Bookshelf-App/ adresini kullanabilirsiniz.
+Incelemek için https://mahmuttyildiz.github.io/bookshelf-app/ adresini kullanabilirsiniz.
 
 Getting Started
 
